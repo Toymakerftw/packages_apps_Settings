@@ -297,8 +297,8 @@ public class SettingsGateway {
             BootlegWelcome.class.getName(),
             RunningServices.class.getName(),
             OmniJawsSettings.class.getName(),
-            GamingMode.class.getName()
-            LiveDisplaySettings.class.getName()
+            GamingMode.class.getName(),
+            LiveDisplaySettings.class.getName(),
     };
 
     public static final String[] SETTINGS_FOR_RESTRICTED = {
