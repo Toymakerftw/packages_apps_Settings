@@ -50,7 +50,7 @@
     <!-- Build types, now with translations -->
     <string name="bootleg_type_official">Official</string>
     <string name="bootleg_type_unofficial">Unofficial</string>
-    <string name="bootleg_type_unknown">Unsupported. ¯\\_(ツ)_/¯</string>
+    <string name="bootleg_type_unknown">#StayRaged</string>
     <string name="bootleggers_releasetype_skeleton">%s (%s)</string>
 
     <!-- Notch behavior -->
